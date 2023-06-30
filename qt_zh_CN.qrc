@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chinese.qm</file>
+        <file>english.qm</file>
+    </qresource>
+    <qresource prefix="/1">
+        <file>l.png</file>
+        <file>R.png</file>
+    </qresource>
+</RCC>
